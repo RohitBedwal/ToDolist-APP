@@ -1,3 +1,3 @@
 # ToDolist-APP
 You can login and logout of your todolist app .
-You can store your todo work save here .
+You can store your todo work and save here .
